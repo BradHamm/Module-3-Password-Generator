@@ -3,7 +3,7 @@
 ![alt text](Develop/assets/Screenshot%202023-04-20%20135519.png)
 
 > On-The-Job assignment required us to create a javaScript function for password generation. Changes made are mentioned in the General Information and Features sections of the README. You can skip directly to changes using the navigation bars below.
-> Live demo [My GitHub](https://bradhamm.github.io/Challenge-1-Module-1/).
+> Live demo [My GitHub](https://bradhamm.github.io/BradHamm/).
 
 ## Table of Contents
 * [General Info](#general-information)
