@@ -1,6 +1,6 @@
 # Module 3 Challenge Project: Password Generator
 
-![alt text](./assets/Screenshot%202023-04-20%20135519.png)
+![alt text](Develop/assets/Screenshot%202023-04-20%20135519.png)
 
 > On-The-Job assignment required us to create a javaScript function for password generation. Changes made are mentioned in the General Information and Features sections of the README. You can skip directly to changes using the navigation bars below.
 > Live demo [My GitHub](https://bradhamm.github.io/Challenge-1-Module-1/).
@@ -54,9 +54,9 @@ THEN the password's generation is confirmed through an alert message and it's pr
 
 
 ## Screenshots
-![Retained webpage integrity](./assets/Screenshot%202023-04-20%20135519.png)
-![Retained webpage integrity](./assets/Screenshot%202023-04-20%20151313.png)
-![Retained webpage integrity](./assets/Screenshot%202023-04-20%20151406.png)
+![Retained webpage integrity](Develop/assets/Screenshot%202023-04-20%20135519.png)
+![Retained webpage integrity](Develop/assets/Screenshot%202023-04-20%20151313.png)
+![Retained webpage integrity](Develop/assets/Screenshot%202023-04-20%20151406.png)
 
 
 ## Setup
